@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PCF303
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Business Analysis 
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on Business Analysis, Data Analysis, and Sports Analysis (NFL and NBA) 
 - 📫 How to reach my email address is pierrec303@gmail.com  
 
 <!---
